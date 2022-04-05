@@ -1,0 +1,14 @@
+.wc-af-field.wc-af-text {
+    width: 400px;
+}
+.wc-af-field.wc-af-textarea {
+    width:100%;
+    min-width: 150px;
+    height: 100px;
+}
+.wc-af-field.wc-af-select {
+    width: 400px;
+}
+.select2-container {
+    width: 400px !important;
+}

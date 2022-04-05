@@ -1,0 +1,106 @@
+# Copyright (C) 2020 braintum
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Account Funds\n"
+
+"POT-Creation-Date: 2020-08-12 18:00:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/admin/class-wc-accounts-funds-admin.php:73,
+#: includes/admin/class-wc-accounts-funds-admin.php:118
+msgid "User Account Funds"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-admin.php:79
+msgid "Available Account funds"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-admin.php:82
+msgid "Available account funds for purchasing items"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-admin-menus.php:22,
+#: includes/admin/class-wc-accounts-funds-admin-menus.php:23,
+#: includes/admin/class-wc-accounts-funds-admin-menus.php:32,
+#: includes/admin/class-wc-accounts-funds-admin-menus.php:33,
+#: includes/admin/class-wc-accounts-funds-gateway.php:65
+msgid "Account Funds"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-admin-menus.php:40,
+#: includes/admin/class-wc-accounts-funds-admin-menus.php:41
+msgid "Cashback Rules"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-admin-menus.php:49,
+#: includes/admin/class-wc-accounts-funds-admin-menus.php:50
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:18,
+#: includes/admin/class-wc-accounts-funds-gateway.php:19
+msgid "WC Accounts Funds"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:23
+msgid "Payment gateway for logged in user's account funds."
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:37
+msgid "Use accounts funds as a payment method and get discount amount of %s"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:56
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:58
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:62
+msgid "Title"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:64
+msgid "Payment method title that the customer will see on your checkout"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:69
+msgid "Description"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:71
+msgid "Payment method description that the customer will see on your checkout"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:72,
+#: includes/admin/class-wc-accounts-funds-gateway.php:79
+msgid "Pay with Account Funds"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:76
+msgid "Instructions"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:78
+msgid "Payment method description that the customer will see on your checkout"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:128
+msgid "You are not logged in right now. Without logged in this payment method will not work"
+msgstr ""
+
+#: includes/admin/class-wc-accounts-funds-gateway.php:136
+msgid "Your accounts funds balance is insufficient for payment. Please select other payment method"
+msgstr ""
+
+
+
