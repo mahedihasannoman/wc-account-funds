@@ -290,7 +290,7 @@ class WC_Accounts_Funds {
 	/**
 	 * When WP has loaded all plugins.
 	 *
-	 * This ensures `wc_accounts_funds__loaded` is called only after all other plugins
+	 * This ensures `plugins_loaded` is called only after all other plugins
 	 * are loaded, to avoid issues caused by plugin directory naming changing
 	 *
 	 * @since 1.0.0
